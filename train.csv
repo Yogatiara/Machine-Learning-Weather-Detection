@@ -1,6 +1,6 @@
-Nama File,Red,Green,Blue,Warna Dominan Biru,Warna Dominan Abu-Abu,Warna Dominan Putih,Kondisi Cuaca,Waktu
-cloud101.jpg,165,191,220,True,False,False,Cerah,Sat Apr 27 20:18:15 2024
-cloud102.jpg,108,150,196,True,False,False,Cerah,Sat Apr 27 20:18:15 2024
-cloud103.jpg,89,144,199,True,False,False,Cerah,Sat Apr 27 20:18:15 2024
-cloud104.jpg,158,197,229,True,False,False,Cerah,Sat Apr 27 20:18:16 2024
-cloud105.jpg,166,199,224,True,False,False,Cerah,Sat Apr 27 20:18:16 2024
+Nama File,Red,Green,Blue,Banyak Pixel Biru,Banyak Pixel Abu-Abu,Banyak Pixel Putih,Kondisi Cuaca,Waktu
+Training_1.jpeg,76,94,103,71585,125472,0,Mendung,Sun Apr 28 14:27:31 2024
+Training_10.jpg,125,155,198,48482,6597,0,Cerah,Sun Apr 28 14:27:31 2024
+Training_100.jpg,123,187,238,16662,10,0,Cerah,Sun Apr 28 14:27:32 2024
+Training_1000.jpg,87,166,237,40035,4,0,Cerah,Sun Apr 28 14:27:32 2024
+Training_1001.jpg,99,172,240,44298,411,0,Cerah,Sun Apr 28 14:27:32 2024
