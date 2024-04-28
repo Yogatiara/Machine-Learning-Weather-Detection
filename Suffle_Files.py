@@ -11,7 +11,7 @@ def shuffle_images(folder_path):
 def rename_files(folder_path, shuffled_files):
     for index, file_name in enumerate(shuffled_files):
         old_path = os.path.join(folder_path, file_name)
-        new_name = f"Training_{index + 1}{os.path.splitext(file_name)[1]}"
+        new_name = f"train_{index + 1}{os.path.splitext(file_name)[1]}"
         new_path = os.path.join(folder_path, new_name)
         
         os.rename(old_path, new_path)
